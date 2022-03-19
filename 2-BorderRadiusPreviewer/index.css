@@ -1,0 +1,28 @@
+.top-numbers input, .bottom-numbers input {
+    width: 30px;
+}
+
+#tr, #br{
+    margin-left: 170px;
+}
+
+.box{
+    max-width: 150px;
+    min-height: 150px;
+    background-color: red;
+    margin: 50px;
+    /*border-radius: 10px 10px 10px 70px; Valores copiados via clipboard*/
+
+}
+
+.btn-submit input {
+    margin-top: 30px;
+    margin-left: 80px;
+    text-transform: uppercase;
+}
+
+.btn-copy input{
+    margin-top: 10px;
+    margin-left: 80px;
+    text-transform: uppercase;
+}
